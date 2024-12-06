@@ -1,0 +1,45 @@
+.projects-container {
+    text-align: center;
+  }
+  
+  .header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+  }
+  
+  .project-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+  }
+  
+  .project-img {
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+  }
+  
+  .project-text {
+    text-align: left;
+  }
+  
+  .project-buttons {
+    margin-top: 20px;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .btn:hover {
+    background-color: #45a049;
+  }
+  

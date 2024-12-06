@@ -1,0 +1,47 @@
+.hobby-container {
+    text-align: center;
+  }
+  
+  .header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+  }
+  
+  .hobby-boxes {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .hobby-box {
+    margin: 10px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #f2f2f2;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .hobby-box h2 {
+    margin-bottom: 10px;
+  }
+  
+  .nav-buttons {
+    margin-top: 20px;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .btn:hover {
+    background-color: #45a049;
+  }
+  
